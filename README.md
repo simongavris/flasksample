@@ -1,5 +1,12 @@
 This is a sample python flask API.
 
+Run from Dockerhub:
+
+	simongavris/flasksample
+
+
+Or Localy
+
 Build:
 
 	docker build  -t python-flask .

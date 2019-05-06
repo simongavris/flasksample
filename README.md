@@ -2,7 +2,7 @@ This is a sample python flask API.
 
 Run from Dockerhub:
 
-	simongavris/flasksample
+	docker run -p 5000:5000 simongavris/flasksample
 
 
 Or Localy
